@@ -1,0 +1,3 @@
+/Users/beckychen/Documents/Unreal Projects/CameraSwitchBetween4/Source/CameraSwitchBetween4/CameraSwitchBetween4.Build.cs
+/Users/beckychen/Documents/Unreal Projects/CameraSwitchBetween4/Source/CameraSwitchBetween4.Target.cs
+/Users/beckychen/Documents/Unreal Projects/CameraSwitchBetween4/Source/CameraSwitchBetween4Editor.Target.cs
